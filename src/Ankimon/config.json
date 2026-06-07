@@ -17,6 +17,7 @@
     "controls.catch_key": "6",
     "controls.team_cycle_key": "9",
     "controls.key_for_opening_closing_ankimon": "Ctrl+N",
+    "key_for_opening_closing_ankidex": "Ctrl+D",
     "controls.allow_to_choose_moves": false,
 
     "gui.animate_time": true,
